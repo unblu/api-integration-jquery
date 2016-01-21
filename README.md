@@ -1,4 +1,4 @@
-# jquery-integration
+# Unblu jQuery integration plugin
 jQuery plugin that provides easy access to the UnbluJS API
 
 **NOTE:** This plugin is in development state and should not be used in productive environments!
